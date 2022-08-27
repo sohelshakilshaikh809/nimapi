@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.NimapInfotech.Nimap.NimapApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.84 s - in com.NimapInfotech.Nimap.NimapApplicationTests
